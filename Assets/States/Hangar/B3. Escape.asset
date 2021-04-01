@@ -17,5 +17,5 @@ MonoBehaviour:
     And why?\r\n\r\nNo time for that now. We have escaping to do. What's the plan?\r\n\r\n1.
     Wait a bit longer.\r\n2. Get running."
   nextStates:
-  - {fileID: 11400000, guid: 87dc38a1c2352224fbc94b2e1cad2ed3, type: 2}
   - {fileID: 11400000, guid: ba1b10df964e1a841a566efc234760a7, type: 2}
+  - {fileID: 11400000, guid: 87dc38a1c2352224fbc94b2e1cad2ed3, type: 2}

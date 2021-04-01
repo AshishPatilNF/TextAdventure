@@ -35,13 +35,12 @@ public class TextAdventure : MonoBehaviour
     {
         var nextStates = state.GetNextStates();
 
-        if(Input.GetKeyDown(KeyCode.Keypad1))
+        for(int i = 0; i < nextStates.Length; i++)
         {
-            state = nextStates[0];
-        }
-        else if(Input.GetKeyDown(KeyCode.Keypad2))
-        {
-            state = nextStates[1];
+            if (Input.GetKeyDown(KeyCode.Keypad1 + i))
+            {
+                state = nextStates[i];
+            }
         }
         textcomponent.text = state.GetStateStory();
     }

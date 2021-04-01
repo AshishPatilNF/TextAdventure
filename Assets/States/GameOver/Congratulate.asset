@@ -18,4 +18,4 @@ MonoBehaviour:
 
     Press "Q" to quit or "1" to restart.'
   nextStates:
-  - {fileID: 11400000, guid: 2fc55019c9432924c9fa2d75878b06b5, type: 2}
+  - {fileID: 11400000, guid: 08a2f9b2068d87844b6be35f574419ae, type: 2}

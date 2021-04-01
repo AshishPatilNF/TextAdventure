@@ -16,6 +16,6 @@ MonoBehaviour:
     Fiction.\n\nYou are going to choose your adventure in this game.\n\nDifferent
     choices will lead to Endings.\n\nUse the Keypad on your keyboard to select a
     particular choice \n1 key for choice 1\n2 key for choice 2\nand so on...\n\nPress
-    'Q' key to quit the game.\n\nLet us begin!!!"
+    1 to continue...\n\nPress 'Q' key to quit the game.\n\nLet us begin!!!"
   nextStates:
   - {fileID: 11400000, guid: 08a2f9b2068d87844b6be35f574419ae, type: 2}
