@@ -3,10 +3,12 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using TMPro;
+
 public class TextAdventure : MonoBehaviour
 {
     [SerializeField]
-    Text textcomponent;
+    TextMeshProUGUI textcomponent;
 
     [SerializeField]
     State startingState;
