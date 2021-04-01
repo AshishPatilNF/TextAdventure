@@ -1,5 +1,5 @@
 # TextAdventure
-##Learning Game Development Project 2
+## Learning Game Development Project 2
 
 TextAdventure is a Text-based adventure game or Interactive Fiction. 
 
