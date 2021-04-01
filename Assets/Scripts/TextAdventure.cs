@@ -24,6 +24,11 @@ public class TextAdventure : MonoBehaviour
     void Update()
     {
         ManageStates();
+
+        if(Input.GetKeyDown(KeyCode.Q))
+        {
+            Application.Quit();
+        }
     }
 
     private void ManageStates()

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2dcff3b7a59a9b340837ad413d551105, type: 3}
+  m_Name: A0. Introduction
+  m_EditorClassIdentifier: 
+  storyText: "Welcome to TextAdventure.\n\nIt is a Text-based adventure game or Interactive
+    Fiction.\n\nYou are going to choose your adventure in this game.\n\nDifferent
+    choices will lead to Endings.\n\nUse the Keypad on your keyboard to select a
+    particular choice \n1 key for choice 1\n2 key for choice 2\nand so on...\n\nPress
+    'Q' key to quit the game.\n\nLet us begin!!!"
+  nextStates:
+  - {fileID: 11400000, guid: 08a2f9b2068d87844b6be35f574419ae, type: 2}

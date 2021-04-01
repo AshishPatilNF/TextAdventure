@@ -10,9 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 2dcff3b7a59a9b340837ad413d551105, type: 3}
-  m_Name: State2
+  m_Name: B5. Waiting
   m_EditorClassIdentifier: 
-  storyText: 'Stroy state 2
+  storyText: 'Not much happens, what would you like to do?
 
-'
-  nextStates: []
+    
+
+    1. Get running.'
+  nextStates:
+  - {fileID: 11400000, guid: 87dc38a1c2352224fbc94b2e1cad2ed3, type: 2}
