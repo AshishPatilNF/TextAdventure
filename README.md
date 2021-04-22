@@ -13,6 +13,6 @@ Depending on the choices made by the player the game will have different endings
 2. Press keypad key 2 to select choice 2.
 3. Press the key 'Q' to quit the game.
 
-This project was developed for the better understanding of Unity Engine's, UI elements and Scriptable Objects and Basics of C#, For loop, Arrays and returning value from function using return.
+This project was developed for the better understanding of Unity Engine's, UI elements and Scriptable Objects and Basics of C#, For loop, Arrays, Script Communication using Classes and Objects and returning value from function using return.
 
 This project was developed as a part of the Udemy course "Complete C# Unity Game Developer 2D" under the guidance of Rick Davidson and Ben Tristem.
